@@ -15,10 +15,10 @@
 
 #####Ekran Görüntüleri
 
-![1](screenshot/1.png)
-![2](screenshot/2.png)
-![3](screenshot/3.png)
-![4](screenshot/4.png)
+![1](screenshots/1.png)
+![2](screenshots/2.png)
+![3](screenshots/3.png)
+![4](screenshots/4.png)
 
 
 ----------------------
