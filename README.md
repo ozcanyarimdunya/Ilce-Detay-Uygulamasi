@@ -25,5 +25,3 @@
 
 | [@ozcaan11](https://www.twitter.com/ozcaan11)
 ----
-
-
