@@ -5,13 +5,17 @@
 ######Can sıkıntısına birebir :)
 
 ----------------------
- 1 - [giriş aktivitesi](app/src/main/java/com/ozcaan11/l50/ilcedetayuygulamasi/MainActivity.java)
+| 1 - [giriş aktivitesi](app/src/main/java/com/ozcaan11/l50/ilcedetayuygulamasi/MainActivity.java)
+----
 
- 2 - [google arama aktivitesi](app/src/main/java/com/ozcaan11/l50/ilcedetayuygulamasi/Main2Activity.java)
+| 2 - [google arama aktivitesi](app/src/main/java/com/ozcaan11/l50/ilcedetayuygulamasi/Main2Activity.java)
+----
 
- 3 - [iller sınıfı](app/src/main/java/com/ozcaan11/l50/ilcedetayuygulamasi/Iller.java)
+| 3 - [iller sınıfı](app/src/main/java/com/ozcaan11/l50/ilcedetayuygulamasi/Iller.java)
+----
 
- 4 - [ilceler sınıfı](app/src/main/java/com/ozcaan11/l50/ilcedetayuygulamasi/Ilceler.java)
+| 4 - [ilceler sınıfı](app/src/main/java/com/ozcaan11/l50/ilcedetayuygulamasi/Ilceler.java)
+----
 
 ---------
 
